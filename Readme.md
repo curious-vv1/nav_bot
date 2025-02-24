@@ -44,7 +44,7 @@ Drive Link:- https://drive.google.com/file/d/1PFR9V--mucsstYXugDUwDcRx7oSW2oQ6/v
 
 ## Approach to localization, planning, and obstacle avoidance
 
-1. A customized bot with dimensions 300cm*300cm*150cm was made with 50 cm radius wheels and 50 cm caster wheel
+1. A customized bot with dimensions 300mm*300mm*150mm was made with 50 mm radius wheels and 50 mm caster wheel
 
 2. Gazebo plugins libgazebo_ros_diff_drive.so for differential drive, libgazebo_ros_ray_sensor.so for lidar and libgazebo_ros_camera.so for camera was used
 
